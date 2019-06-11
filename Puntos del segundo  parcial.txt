@@ -1,0 +1,16 @@
+pdf:
+
+repositorios y pauqtes
+expreciones regulares
+usuario grupos y permisos
+bash
+lvm y raiD
+
+10
+11
+13
+7
+8
+
+
+intalar una maquina virtual y hacer ejercicios.
